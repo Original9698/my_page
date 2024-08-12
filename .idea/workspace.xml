@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ec422846-fad6-4891-bdbe-537edd21d9ad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Django_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first/first/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first/first/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first/first/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first/first/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first/first/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first/video/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first/video/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first/video/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first/video/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first/video/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first/video/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first/video/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/.idea/my_page.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/beautiful_table/static/beautiful_table/css/table.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/beautiful_table/templates/beautiful_table/table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/beautiful_table/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/geometry/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/geometry/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/geometry/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/geometry/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/geometry/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/geometry/templates/geometry/circle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/geometry/templates/geometry/rectangle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/geometry/templates/geometry/square.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/geometry/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/geometry/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/geometry/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/horoscope/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/horoscope/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/horoscope/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/horoscope/converters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/horoscope/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/horoscope/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/horoscope/static/horoscope/css/info.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/horoscope/static/horoscope/css/main_menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/horoscope/templates/horoscope/info_zodiac.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/horoscope/templates/horoscope/main_menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/horoscope/templates/include/navibar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/horoscope/templatetags/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/horoscope/templatetags/my_filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/horoscope/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/horoscope/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/horoscope/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/my_page/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/my_page/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/my_page/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/my_page/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/my_page/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/static/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/week.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/week_days/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/week_days/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/week_days/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/week_days/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/week_days/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/week_days/templates/week_days/greeting.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/week_days/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/week_days/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_page/week_days/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2cH4mwGCsRwDLdtwfsNKXoPk4aS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Женя/Desktop/Project/Django_project&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec422846-fad6-4891-bdbe-537edd21d9ad" name="Changes" comment="" />
+      <created>1707755333472</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707755333472</updated>
+    </task>
+    <servers />
+  </component>
+</project>
